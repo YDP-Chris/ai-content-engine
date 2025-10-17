@@ -1,0 +1,10 @@
+# Secrets and env
+.env
+*.key
+*.log
+
+# Node modules (if adding JS)
+node_modules/
+
+# Podman temps
+.podman/
